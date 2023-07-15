@@ -6,8 +6,8 @@ import React from 'react'
 const ProfitWithdrawal = () => {
 
     return (
-        <div className='h-[700px] w-[110%] bg-cover  bg-no-repeat' style={{ backgroundImage: "url('/Profitwithdrawal.png')" }}>
-            <div className='h-[400px] pt-8'>
+        <div className='h-[700px] lg:h[974px] w-[110%] bg-cover  bg-no-repeat' style={{ backgroundImage: "url('/Profitwithdrawal.png')" }}>
+            <div className='h-[400px] lg:h-[545px] pt-8'>
                 <h3 className='text-primary font-bold text-2xl text-center'>Profit withdrawal</h3>
                 <div className='p-0 h-[350px] overflow-hidden'>
                     <div className='flex justify-between text-sm leading-5 my-6 mx-10 '>
