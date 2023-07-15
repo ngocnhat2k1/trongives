@@ -8,7 +8,7 @@ const Header = () => {
     return (
         <div className="px-[4vw] h-[15%] items-center flex !justify-between">
             <div className="p-[2vw]">
-                <Image alt="logo" src='/favicon.ico' width={105} height={55}></Image>
+                <Image alt="logo" src='/logo.png' width={105} height={55}></Image>
             </div>
             <div className="flex items-center p-[2vw]">
                 <span className="text-primary text-sm px-2 py-1 border-2 rounded-3xl border-primary">English <Icon icon="grommet-icons:down" className="inline-block mb-1" /></span>
